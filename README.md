@@ -52,19 +52,17 @@ Make sure your CSV file includes:
 
  1. Clone this repository
 
-```bash
-git clone https://github.com/your-username/sales-prediction-app.git
-cd sales-prediction-app
+ git clone https://github.com/your-username/sales-prediction-app.git
+ cd sales-prediction-app
 
  2. Install dependencies
 
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
+ 3. Run the Streamlit app
 
-3. Run the Streamlit app
-
-streamlit run app.py
-Then visit: http://localhost:8501 in your browser.
+ streamlit run app.py
+ Then visit: http://localhost:8501 in your browser.
 
 ## 🧪 Tech Stack
 
@@ -77,22 +75,10 @@ Then visit: http://localhost:8501 in your browser.
 | matplotlib   | Plotting library                 |
 | scikit-learn | Machine learning (Decision Tree) |
 
-
-📦 Folder Structure
-
-sales-prediction-app/
-│
-├── app.py                # Main Streamlit app
-├── requirements.txt      # Python dependencies
-├── README.md             # You're here!
-├── sample_dataset.csv    # (Optional) Sample file
-└── screenshots/          # Folder for screenshots
-
-
-⚖️ License
+## ⚖️ License
 This project is licensed under the MIT License.
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Maitry Chauhan
 
 📧 Email: maitry.chauhan22@gmail.com
