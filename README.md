@@ -52,17 +52,17 @@ Make sure your CSV file includes:
 
  1. Clone this repository
 
- git clone https://github.com/your-username/sales-prediction-app.git
- cd sales-prediction-app
+  git clone https://github.com/your-username/sales-prediction-app.git
+  cd sales-prediction-app
 
  2. Install dependencies
 
- pip install -r requirements.txt
+   pip install -r requirements.txt
 
  3. Run the Streamlit app
 
- streamlit run app.py
- Then visit: http://localhost:8501 in your browser.
+  streamlit run app.py
+  Then visit: http://localhost:8501 in your browser.
 
 ## 🧪 Tech Stack
 
@@ -82,7 +82,9 @@ This project is licensed under the MIT License.
 Maitry Chauhan
 
 📧 Email: maitry.chauhan22@gmail.com
+
 🌐 GitHub: maitry2212
 
 ⭐ If you like this project...
+
 Please give it a ⭐ on GitHub!
