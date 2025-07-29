@@ -46,27 +46,17 @@ Make sure your CSV file includes:
 
 ---
 
-## 📸 Screenshots
-
-> Replace the links below with your own screenshots (after running the app locally)
-
-| Home Page | Prediction Output | Heatmap |
-|-----------|-------------------|---------|
-| ![Home](screenshots/home.png) | ![Output](screenshots/prediction.png) | ![Heatmap](screenshots/heatmap.png) |
-
 ---
 
 ## 🛠️ Installation
 
-### 1. Clone this repository
+ 1. Clone this repository
 
 ```bash
 git clone https://github.com/your-username/sales-prediction-app.git
 cd sales-prediction-app
 
----
-
-## 2. Install dependencies
+ 2. Install dependencies
 
 pip install -r requirements.txt
 
