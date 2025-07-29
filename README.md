@@ -4,13 +4,6 @@ This is an interactive **web application built with Streamlit** that predicts sa
 
 ---
 
-## 🚀 Demo
-
-[![Streamlit App Demo](https://img.shields.io/badge/Live%20App-Click%20Here-green?style=for-the-badge&logo=streamlit)](http://localhost:8501)  
-*(Deploy it to Streamlit Cloud to make this button work online)*
-
----
-
 ## 📌 Features
 
 ✅ Upload your own CSV dataset  
@@ -70,3 +63,50 @@ Make sure your CSV file includes:
 ```bash
 git clone https://github.com/your-username/sales-prediction-app.git
 cd sales-prediction-app
+
+---
+
+## 2. Install dependencies
+
+pip install -r requirements.txt
+
+
+3. Run the Streamlit app
+
+streamlit run app.py
+Then visit: http://localhost:8501 in your browser.
+
+## 🧪 Tech Stack
+
+| Tool         | Description                      |
+| ------------ | -------------------------------- |
+| Python       | Programming language             |
+| Streamlit    | Frontend web UI framework        |
+| pandas       | Data manipulation                |
+| seaborn      | Data visualization               |
+| matplotlib   | Plotting library                 |
+| scikit-learn | Machine learning (Decision Tree) |
+
+
+📦 Folder Structure
+
+sales-prediction-app/
+│
+├── app.py                # Main Streamlit app
+├── requirements.txt      # Python dependencies
+├── README.md             # You're here!
+├── sample_dataset.csv    # (Optional) Sample file
+└── screenshots/          # Folder for screenshots
+
+
+⚖️ License
+This project is licensed under the MIT License.
+
+🙋‍♀️ Author
+Maitry Chauhan
+
+📧 Email: maitry.chauhan22@gmail.com
+🌐 GitHub: maitry2212
+
+⭐ If you like this project...
+Please give it a ⭐ on GitHub!
